@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/criptroblox/mm2eggteleport/refs/heads/main/egg"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/mm2"))()
